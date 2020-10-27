@@ -1,10 +1,10 @@
-
 /**
- * Write a description of class Location here.
+ * A class that creates an object that stores the x and y location.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Maggie Mah
+ * @version 03-09-20
  */
+
 public class Location
 {
     private int x;
