@@ -1,3 +1,10 @@
+/**
+ * A class to determine if a maze has an exit.
+ * 
+ * @author Maggie Mah
+ * @version 03-09-20
+ */
+
 public class MazeRunner {
 
     public static void main(String[] args)
