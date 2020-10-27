@@ -1,5 +1,5 @@
 /**
- * A class to determine if a maze has an exit.
+ * A class to create mazes and test the Maze class.
  * 
  * @author Maggie Mah
  * @version 03-09-20
